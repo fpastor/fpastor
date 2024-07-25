@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Static Badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=orange&color=gray)
+
+
 <!--
 **fpastor/fpastor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
