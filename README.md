@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=blue&color=gray)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=blue&color=gray)](https://www.linkedin.com/in/fernandopastor/)
 ![Static Badge](https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=orange&color=gray)
 
 ![Static Badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=orange&color=gray)
