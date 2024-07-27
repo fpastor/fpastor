@@ -1,12 +1,12 @@
-# Hi there 👋
+# Hi there 👋
 
 My name is Fernando Pastor, and I'm a seasoned professional with over 20 years of experience in graphic design, web development, and digital marketing, specializing in marketing strategies.
 
-### 🌟 Adapting and Evolving
+### 🌟 Adapting and Evolving
 
 Currently, I'm embracing a new challenge by pursuing a Higher Technician degree in Multiplatform Application Development (DAM). This shift represents my commitment to continuous growth and adapting to the evolving tech landscape.
 
-### 📚 Background and Continuous Learning
+### 📚 Background and Continuous Learning
 
 I hold a Higher Technician degree in Audiovisual Production and a Master's in Digital Marketing and Social Media. This academic journey has enabled me to blend my creative passion with the latest trends in online marketing. Recently, I also 
 earned a Professional Certification as an Occupational Training Instructor, underscoring my dedication to sharing knowledge and expertise.
