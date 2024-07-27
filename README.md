@@ -12,6 +12,7 @@ I hold a Higher Technician degree in Audiovisual Production and a Master's in Di
 earned a Professional Certification as an Occupational Training Instructor, underscoring my dedication to sharing knowledge and expertise.
 
 Feel free to connect or explore my repositories to see my work in action!
+
 ---
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fer@fernandopastor.es)
