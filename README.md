@@ -1,22 +1,19 @@
-# Hi there 👋
+# Hi there 👋
 
-My name is Fernando Pastor, and I'm a seasoned professional with over 20 years of experience in design and digital marketing, specializing in marketing strategies, graphic design, and web development.
+My name is Fernando Pastor, and I'm a seasoned professional with over 20 years of experience in graphic design, web development, and digital marketing, specializing in marketing strategies.
 
-### 📚 Background
+### 🌟 Adapting and Evolving
 
-I hold a Higher Technician degree in Audiovisual Production and a Master's in Digital Marketing and Social Media. This academic journey has enabled me to blend my creative passion with the latest trends in online marketing.
+Currently, I'm embracing a new challenge by pursuing a Higher Technician degree in Multiplatform Application Development (DAM). This shift represents my commitment to continuous growth and adapting to the evolving tech landscape.
 
-### 🎓 Continuous Learning
+### 📚 Background and Continuous Learning
 
-Recently, I earned a Professional Certification as an Occupational Training Instructor, which underscores my dedication to sharing knowledge and expertise.
-
-### 🚀 New Horizons
-
-Currently, I'm embracing a new challenge by pursuing a Higher Technician degree in Multiplatform Application Development. This shift represents my commitment to continuous growth and adapting to the evolving tech landscape.
-
----
+I hold a Higher Technician degree in Audiovisual Production and a Master's in Digital Marketing and Social Media. This academic journey has enabled me to blend my creative passion with the latest trends in online marketing. Recently, I also 
+earned a Professional Certification as an Occupational Training Instructor, underscoring my dedication to sharing knowledge and expertise.
 
 Feel free to connect or explore my repositories to see my work in action!
+
+--
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fer@fernandopastor.es)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-pastor/)
@@ -42,7 +39,6 @@ Feel free to connect or explore my repositories to see my work in action!
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 -->
 
-
 <!--
 **fpastor/fpastor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -59,8 +55,4 @@ Here are some ideas to get you started:
 
 ![Static Badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=orange&color=gray)
 ![Static Badge](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=blue&color=gray)
-
 -->
-
-
-
