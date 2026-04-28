@@ -1,17 +1,20 @@
 # Hi there 👋
 
-My name is Fernando Pastor, and I'm a seasoned professional with over 20 years of experience in graphic design, web development, and digital marketing, specializing in marketing strategies.
+My name is Fernando Pastor, and I'm a seasoned professional with over 20 years of experience in graphic design, web development, and digital marketing, with a strong focus on marketing strategy.
 
 ### 🌟 Adapting and Evolving
 
-Currently, I'm embracing a new challenge by pursuing a Higher Technician degree in Multiplatform Application Development (DAM). This shift represents my commitment to continuous growth and adapting to the evolving tech landscape.
+After completing my Higher Technician degree in Multiplatform Application Development (DAM), I transitioned fully into software development. I’m currently working as a full-stack developer in a startup, building a UAV control application focused on civil and rescue operations.
+
+## 💡 Bridging Creativity and Technology
+
+My background in audiovisual production and digital marketing, combined with hands-on development experience, allows me to approach problems from both a creative and technical perspective—designing and implementing solutions that are not only functional but also user-centered.
 
 ### 📚 Background and Continuous Learning
 
-I hold a Higher Technician degree in Audiovisual Production and a Master's in Digital Marketing and Social Media. This academic journey has enabled me to blend my creative passion with the latest trends in online marketing. Recently, I also 
-earned a Professional Certification as an Occupational Training Instructor, underscoring my dedication to sharing knowledge and expertise.
+I also hold a Master’s degree in Digital Marketing and Social Media, as well as a Professional Certification as an Occupational Training Instructor. I remain committed to continuous learning and sharing knowledge.
 
-Feel free to connect or explore my repositories to see my work in action!
+Feel free to connect or explore my repositories to see my work in action.
 
 ---
 
