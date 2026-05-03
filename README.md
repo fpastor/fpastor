@@ -18,11 +18,36 @@ Feel free to connect or explore my repositories to see my work in action.
 
 ---
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fer@fernandopastor.es)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-pastor/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/303308172066553876)
+[![Email](https://img.shields.io/badge/Send%20me%20an%20email-white?style=flat&logo=gmail)](mailto:fer@fernandopastor.dev)
+[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me-white?style=flat&logo=linkedin&color=blue)](https://www.linkedin.com/in/fernando-pastor/)
+[![Discord](https://img.shields.io/badge/Contact%20me%20on%20Discord-white?style=flat&logo=discord&color=purple&logoColor=white)](https://discordapp.com/users/303308172066553876)
+
+## Daily Stack
+
+**Backend:** Node.js · TypeScript · NestJS · MikroORM  
+**Database:** PostgreSQL · SQLite  
+**Frontend:** Svelte · HTML5 · SCSS  
+**Communication:** REST APIs · WebSockets · MQTT · gRPC  
+**DevOps & Tools:** Docker · GitLab · VS Code (DevContainers) · Linux (WSL2)
+
+### Additional Experience
+
+C# · Java · Spring Boot · Hibernate · SQL Server · Dart · Flutter · Unity  
+
+### Design & Creative Tools
+
+Adobe Photoshop · Illustrator · InDesign · Affinity Suite
 
 <!--
+![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=yellow&color=black)
+![C#](https://img.shields.io/badge/C%23-white?style=flat&color=blue)
+![Java](https://img.shields.io/badge/Java-white?style=flat&color=blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-white?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/Git-white?style=flat&logo=git)
+![HTML5](https://img.shields.io/badge/HTML5-white?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-white?style=flat&logo=css&logoColor=blue)
+
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/es-es/users/fpastor/)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/fernando-pastor-10/)
 [![Static Badge](https://img.shields.io/badge/Domestika-red?style=for-the-badge)](https://www.domestika.org/es/fpastor)
@@ -36,26 +61,4 @@ Feel free to connect or explore my repositories to see my work in action.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
--->
-
-<!--
-**fpastor/fpastor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![Static Badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=orange&color=gray)
-![Static Badge](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=blue&color=gray)
 -->
