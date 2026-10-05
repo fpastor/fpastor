@@ -24,11 +24,12 @@ Feel free to connect or explore my repositories to see my work in action.
 
 ## Daily Stack
 
-**Backend:** Node.js · TypeScript · NestJS · MikroORM  
+**Backend:** TypeScript · Node.js · NestJS · MikroORM  
 **Database:** PostgreSQL · SQLite  
 **Frontend:** Svelte · HTML5 · SCSS  
 **Communication:** REST APIs · WebSockets · MQTT · gRPC  
-**DevOps & Tools:** Docker · GitLab · VS Code (DevContainers) · Linux (WSL2)
+**DevOps & Tools:** Docker · GitLab · VS Code (DevContainers) · Linux (WSL2)  
+**Mobile:** .NET MAUI · Android
 
 ### Additional Experience
 
@@ -36,7 +37,7 @@ C# · Java · Spring Boot · Hibernate · SQL Server · Dart · Flutter · Unity
 
 ### Design & Creative Tools
 
-Adobe Photoshop · Illustrator · InDesign · Affinity Suite
+Figma · Affinity Suite · Adobe Photoshop · Illustrator · InDesign
 
 <!--
 ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat&logo=typescript)
